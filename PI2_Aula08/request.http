@@ -1,0 +1,3 @@
+#DELETE http://localhost:8001/produtos/delete/9
+
+POST http://localhost:8001/produtos/add?nome=Xicara&preco=6
